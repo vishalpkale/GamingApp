@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.formcontainer {
+    background-image: url('images/chatbackgroundimage.jpg');
+
+}
+
+.box-container {
+    width: 380px;
+    height: 600px;
+    position: relative;
+    margin: 5% auto;
+    background: #fff;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.button-box {
+    width: 220px;
+    margin: 35px auto;
+    position: relative;
+    box-shadow: 0 0 20px 10px #795ddf1f;
+    border-radius: 40px;
+}
+
+.toggle-btn {
+    padding: 10px 30px;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    outline: none;
+    position: relative;
+}
+
+#btn {
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 110px;
+    height: 100%;
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    border-radius: 30px;
+    transition: .5s;
+}
+
+.indexcontainer {
+    background-image: url('images/bgimage3.jpg');
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    width: auto;
+
+}
+
+.logo img {
+    border-radius: 50%;
+    width: 100px;
+    padding: 0 8px;
+    position: cover;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    height: 45px;
+    background-color: #fff;
+    color: rgb(10, 10, 11);
+}
+
+nav ul li {
+    padding: 0 12px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 1.3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tgameslogo {
+    float: left;
+    width: 30%
+}
+
+.chessimg {
+    width: 200px;
+    height: 150px;
+    position: relative;
+    margin-top: 90px;
+    margin-left: 90px;
+    overflow: hidden;
+    color: black;
+    border-radius: 50%;
+}
+
+.puzzleimg {
+    width: 200px;
+    height: 150px;
+    position: relative;
+    margin-top: 90px;
+    margin-left: 150px;
+    overflow: hidden;
+    color: black;
+    border-radius: 50%;
+}
+
+.sudokoimg {
+    width: 200px;
+    height: 150px;
+    position: relative;
+    margin-top: 90px;
+    margin-left: 150px;
+    overflow: hidden;
+    color: black;
+    border-radius: 50%;
+}
+
+.game2084img {
+    width: 200px;
+    height: 150px;
+    position: relative;
+    margin-top: 90px;
+    margin-left: 150px;
+    overflow: hidden;
+    color: black;
+    border-radius: 50%;
+}
+
+.tictactoeimg {
+    width: 200px;
+    height: 150px;
+    position: relative;
+    margin-top: 90px;
+    margin-left: 150px;
+    overflow: hidden;
+    color: black;
+    border-radius: 50%;
+}
+
+.wordleimg {
+    width: 200px;
+    height: 150px;
+    position: relative;
+    margin-top: 90px;
+    margin-left: 150px;
+    overflow: hidden;
+    color: black;
+    border-radius: 50%;
+}
