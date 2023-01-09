@@ -8,9 +8,5 @@ body {
     height: 100%;
     width: 100%;
     background-image: url('chessbgimage.jpg');
-    background-position: center;
-    background-size: cover;
-    height: auto;
-    width: auto;
-
+   
 }
